@@ -12,5 +12,10 @@ pip install streamlit
 pip install pillow
 ```
 
+# 실행 방법
+```
+streamlit run 파일명.py
+```
+
 # 실행 초기 화면
 !["실습 결과 파일"](images/defalut_view.png)
